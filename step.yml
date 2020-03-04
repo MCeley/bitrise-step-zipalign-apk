@@ -57,7 +57,6 @@ inputs:
       description: Usually `$BITRISE_APK_PATH` or `$BITRISE_SIGNED_APK_PATH`
       is_expand: true
       is_required: true
-      value_options: []
 
 outputs:
   - BITRISE_ALIGNED_APK_PATH:
