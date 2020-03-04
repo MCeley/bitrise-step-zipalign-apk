@@ -50,7 +50,7 @@ toolkit:
 
 
 inputs:
-  - bitrise_unaligned_apk_path:
+  - bitrise_unaligned_apk_path: 
     opts:
       title: "Unaligned APK Path"
       summary: The path of the APK that needs to be aligned.
